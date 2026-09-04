@@ -87,9 +87,6 @@ export default function Footer({ onOpenResume }) {
           <div>
             © {new Date().getFullYear()} Jamsed Hossen. All rights reserved.
           </div>
-          <div>
-            Data Analytics & Business Intelligence Portfolio
-          </div>
         </div>
 
       </div>
